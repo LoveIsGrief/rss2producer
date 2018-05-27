@@ -1,1 +1,1 @@
-from rss2feed import RSS2Feed
+from .rss2feed import RSS2Feed
